@@ -1,0 +1,13 @@
+base           : #f3b03f
+                 #F0A016
+
+
+
+
+alternate base : #2f5e68
+                 #F0A016
+
+
+
+font           : #ed393c
+                 #E81619
